@@ -59,5 +59,3 @@ class Person
      expect(spencer.handed).to eq(spencer_attributes[:handed])
    end
  end
-
-
